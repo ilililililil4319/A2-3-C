@@ -1,0 +1,22 @@
+2026-08-21 13:34:06,487 [ERROR] 리뷰 ID=1 감정분석 실패: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}
+2026-08-21 13:34:06,706 [ERROR] 리뷰 ID=2 감정분석 실패: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}
+2026-08-21 13:34:06,925 [ERROR] 리뷰 ID=3 감정분석 실패: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}
+2026-08-21 13:34:07,144 [ERROR] 리뷰 ID=4 감정분석 실패: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}
+2026-08-21 13:34:07,394 [ERROR] 리뷰 ID=5 감정분석 실패: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}
+2026-08-21 13:38:31,219 [ERROR] 리뷰 ID=1 감정분석 실패: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}
+2026-08-21 13:42:09,791 [ERROR] 리뷰 ID=1 감정분석 실패: Error code: 401 - {'type': 'error', 'error': {'type': 'authentication_error', 'message': 'API key is invalid.'}, 'request_id': None}
+2026-08-21 14:34:05,149 [INFO] 파일 가져오기 완료: data/sample_reviews.csv, 총 40건 중 40건 raw 저장
+2026-08-21 14:34:06,414 [WARNING] 정제 중 2건 필수필드누락, 4건 짧은리뷰로 제외됨
+2026-08-21 14:34:06,414 [INFO] 정제 완료: raw 80건 중 clean 0건 저장 (모드: skip)
+2026-08-21 14:42:24,566 [WARNING] 부정리뷰 급증 감지: 25.0% -> 40.0% (+15.0%p)
+2026-08-21 14:42:26,095 [WARNING] 부정리뷰 급증 감지: 25.0% -> 40.0% (+15.0%p)
+2026-08-21 14:42:26,097 [INFO] 리포트 생성 완료: output/reports\report_20260821_144226.txt, output/reports\report_20260821_144226.md
+2026-08-21 14:53:44,997 [INFO] 파일 가져오기 완료: data/sample_reviews.csv, 총 40건 중 40건 raw 저장
+2026-08-21 14:53:46,218 [WARNING] 정제 중 1건 필수필드누락, 2건 짧은리뷰로 제외됨
+2026-08-21 14:53:46,218 [INFO] 정제 완료: raw 40건 중 clean 36건 저장 (모드: skip)
+2026-08-21 14:54:30,990 [WARNING] 부정리뷰 급증 감지: 25.0% -> 40.0% (+15.0%p)
+2026-08-21 14:54:32,509 [WARNING] 부정리뷰 급증 감지: 25.0% -> 40.0% (+15.0%p)
+2026-08-21 14:54:32,511 [INFO] 리포트 생성 완료: output/reports\report_20260821_145432.txt, output/reports\report_20260821_145432.md
+2026-08-21 14:54:33,735 [INFO] 내보내기 완료: csv 형식, 36건, 경로=output\export_20260821_145433.csv
+2026-08-21 14:54:34,955 [INFO] 내보내기 완료: jsonl 형식, 36건, 경로=output\export_20260821_145434.jsonl
+2026-08-21 14:54:36,348 [INFO] 내보내기 완료: excel 형식, 36건, 경로=output\export_20260821_145436.xlsx
