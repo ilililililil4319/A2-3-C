@@ -247,19 +247,19 @@ python main.py export --format csv --sentiment negative
 ### 대시보드 차트 결과물
 
 #### 감정 분포 (파이 차트)
-![감정 분포](review-dashboard/screenshots/38_챠트2.png)
+![감정 분포](https://raw.githubusercontent.com/ilililililil4319/A2-3-C/main/review-dashboard/screenshots/38_챠트2.png)
 
 #### 별점별 감정 분포 (누적 막대그래프)
-![별점별 감정 분포](review-dashboard/screenshots/37_챠트1.png)
+![별점별 감정 분포](https://raw.githubusercontent.com/ilililililil4319/A2-3-C/main/review-dashboard/screenshots/37_챠트1.png)
 
 #### 시간별 감정 추이 (선그래프)
-![시간별 감정 추이](review-dashboard/screenshots/39_챠트3.png)
+![시간별 감정 추이](https://raw.githubusercontent.com/ilililililil4319/A2-3-C/main/review-dashboard/screenshots/39_챠트3.png)
 
 ### 최종 검증표
 
 전체 PDF 요구사항(필수 13개 항목), 보너스 과제, 제약사항 준수 여부를 정리한 최종 검증표입니다.
 
-![최종 검증표](review-dashboard/screenshots/48_최종점검.png)
+![최종 검증표](https://raw.githubusercontent.com/ilililililil4319/A2-3-C/main/review-dashboard/screenshots/48_최종점검.png)
 
 ---
 
