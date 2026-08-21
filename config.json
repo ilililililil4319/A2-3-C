@@ -1,0 +1,28 @@
+{
+  "api": {
+    "provider": "openai",
+    "api_key_env": "OPENAI_API_KEY",
+    "model": "gpt-4o-mini"
+  },
+  "storage": {
+    "db_path": "data/reviews.db"
+  },
+  "import_policy": {
+    "duplicate_mode": "skip"
+  },
+  "clean_rules": {
+    "min_review_length": 5
+  },
+  "alert": {
+    "days": 7,
+    "threshold_pp": 15,
+    "min_sample_size": 5
+  },
+  "visualization": {
+    "font_family": "Malgun Gothic",
+    "output_dir": "output/charts"
+  },
+  "report": {
+    "output_dir": "output/reports"
+  }
+}
